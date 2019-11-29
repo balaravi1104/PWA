@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Marvel&display=swap');
+.logo{
+  padding-right: 7px;
+  padding-left: 7px;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  background-color: #ED1D24;
+  }
+h1 {
+  color: #ffffff;
+  font-size: 500%;
+}
+h2 {
+  color: #FBCA03;
+   font-weight: lighter;
+}
+   h3 {
+    color: #FBCA03;
+     font-weight: lighter;
+}
+body {
+  margin: 2em;
+}
+body, input[type="text"], button {
+  color : #9bc063 ;
+  }
+/* everywhere else */
+* {
+  font-family: 'Marvel', sans-serif;
+}
+
+
+  body{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(./assets/home.jpg);
+  }
+
+heros
+    {
+    background-image: url(./assets/home1.jpg);
+  }

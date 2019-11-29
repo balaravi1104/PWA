@@ -1,0 +1,79 @@
+.Ironman{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(../../assets/ironman.jpg);
+}
+.captain{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(../../assets/captain.jpg);
+
+}
+.thor{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(../../assets/thor.jpg);
+
+}
+.hulk{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/Hulk.jpg);
+
+}
+.blackwidow{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/BlackWidow.jpg);
+
+}
+.spiderman{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/Spiderman.jpg);
+
+}
+.blackpanther{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/BlackPanther.jpg);
+
+}
+.doctorstange{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/DoctorStrange.jpg);
+
+}
+.antman{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/Antman.jpg);
+
+}
+.hawkeye{
+  height:40em; background-size:cover; width:auto;
+  background-image:url(/src/assets/hawkeye.jpg);
+}
+/* HeroDetailComponent's private CSS styles */
+label {
+  display: inline-block;
+  width: 3em;
+  margin: .5em 0;
+  color: rgb(245, 20, 12);
+  font-weight: bold;
+}
+input {
+  height: 2em;
+  font-size: 1em;
+  padding-left: .4em;
+}
+button {
+  margin-top: 20px;
+  font-family: Arial;
+  background-color: #eee;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  cursor: hand;
+}
+button:hover {
+  background-color: #cfd8dc;
+}
+button:disabled {
+  background-color: #eee;
+  color: #ccc;
+  cursor: auto;
+}
